@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Modrejsell
+- 👀 I’m interested in Gaming, Programing
+- 🌱 I’m currently learning Python/Nodejs
+- 💞️ Mine Age is 16 y.0
